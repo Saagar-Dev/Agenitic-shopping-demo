@@ -95,9 +95,6 @@ Enter your Anthropic API key in the intro popup, or set `const API_KEY = 'sk-ant
 ## About
 
 Built by **Saagar Devadiga** — Data Engineer & AI Developer, Brisbane, Australia.
-
-Presented at the Snowflake Technical User Group Brisbane 2025.
-
 ---
 
 ---
